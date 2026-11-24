@@ -11,13 +11,12 @@ both in the plugin's own documentation and in its published description on
 
 ## Contents
 
-<!-- PLACEHOLDER: update the descriptions once the screenshots are added -->
-
 - `screenshots/map-highlights.png` — portals highlighted on the map in the three colours
   (2, 3 and 4+ owners).
-- `screenshots/portal-details.png` — the "Collaboration: …" line in the portal details
-  panel.
-- `screenshots/settings-dialog.png` — the plugin's settings window.
+- `screenshots/portal-details.png` — the portal details panel, blurred except for the
+  "Collaboration: 2 owners" line; agent names are fully obscured.
+- `screenshots/settings-dialog.png` — the settings window: automatic loading, delay
+  between requests, minimum zoom, number of cached portals and the colour legend.
 
 ![Portals highlighted on the map](https://raw.githubusercontent.com/Grifwl/iitc-collaboration-highlighter-assets/main/screenshots/map-highlights.png)
 
